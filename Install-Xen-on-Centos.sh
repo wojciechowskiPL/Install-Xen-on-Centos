@@ -1,4 +1,5 @@
 #!/bin/sh
+# Author site: https://bsnotes.blog
 
 # Make sure everything is up to date
 yum update -y
